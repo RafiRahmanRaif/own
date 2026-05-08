@@ -3411,7 +3411,7 @@ __metadata:
     "@cloudflare/workers-types": "npm:^4.20230228.0"
     "@hono/zod-validator": "npm:^0.0.6"
     "@types/node": "npm:^18.14.2"
-    hono: "npm:^3.0.2"
+    hono: "npm:^4.12.16"
     jose: "npm:^4.13.0"
     toml: "npm:^3.0.0"
     typescript: "npm:^4.9.5"
@@ -4705,10 +4705,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"hono@npm:^3.0.2":
-  version: 3.0.2
-  resolution: "hono@npm:3.0.2"
-  checksum: 2ccd141dfde329e487ac51b8ecb8ddd08c823298a8d07716bb4e18b6709abed77cefa3b5ba032e76e421a75251383aef18164bb8485e3f63e2d05de4e1c4317e
+"hono@npm:^4.12.16":
+  version: 4.12.18
+  resolution: "hono@npm:4.12.18"
+  checksum: 912d11e7a2d9fb6a0ecacc33ed593d5aa5d0b05dacbda98a46734f234c7d20bdb92d022f36ff0dc944bd462e8b031c062badee62040c83d3f2c2d810ed871a5c
   languageName: node
   linkType: hard
 
