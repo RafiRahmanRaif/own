@@ -2048,9 +2048,9 @@ __metadata:
   linkType: hard
 
 "@tootallnate/once@npm:2":
-  version: 2.0.0
-  resolution: "@tootallnate/once@npm:2.0.0"
-  checksum: d9f7f2130a0a2e1ea50f3bc90b83a8b99c913bbb80d7a1706f7f4730292ef299d18443c3b57a42dfb17c6559c9085e13f751b1b6c969bcff7bee3eeaf9da4dec
+  version: 2.0.1
+  resolution: "@tootallnate/once@npm:2.0.1"
+  checksum: 666ce20307c95537f49bdaf21f80c80e0e0f26686b907c38edda76f418d409fa67e0f0ac45a8be6d6179c1666dae48c1d63f768f1e1b063d0436b452fbe0db86
   languageName: node
   linkType: hard
 
