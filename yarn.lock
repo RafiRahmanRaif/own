@@ -8119,8 +8119,8 @@ __metadata:
   linkType: hard
 
 "ws@npm:^8.2.2":
-  version: 8.12.1
-  resolution: "ws@npm:8.12.1"
+  version: 8.21.0
+  resolution: "ws@npm:8.21.0"
   peerDependencies:
     bufferutil: ^4.0.1
     utf-8-validate: ">=5.0.2"
@@ -8129,7 +8129,7 @@ __metadata:
       optional: true
     utf-8-validate:
       optional: true
-  checksum: a876f870ceeaaf115138a47eacc6b2a2d750c95d770124ad2aad4d7b03d4413dae65e6325ac76df3c30930f6c8cb683c65b236f7068e497e5c70a5f8acd9e213
+  checksum: 58418b4bdd9b48768f69fddfb2891d8b090f5e7c9da58f28261f51677d8dfdf78ca1b1a52217e0376168f8ee150eac8854c1ba9e2dbdfb0692dbafefd2f43b4e
   languageName: node
   linkType: hard
 
