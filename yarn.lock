@@ -7954,13 +7954,13 @@ __metadata:
   linkType: hard
 
 "websocket-driver@npm:>=0.5.1":
-  version: 0.7.4
-  resolution: "websocket-driver@npm:0.7.4"
+  version: 0.7.5
+  resolution: "websocket-driver@npm:0.7.5"
   dependencies:
     http-parser-js: "npm:>=0.5.1"
     safe-buffer: "npm:>=5.1.0"
     websocket-extensions: "npm:>=0.1.1"
-  checksum: 63e6fbad49fa0835aa1a4fc2bfe64068c6e6b3f4ab7c81e7a5e062803a2bfabc75715a548c5babcbdad2577cd6f07c9fcb22b0f45c5fa6368ae0fb2e6b05cda5
+  checksum: 3ffd01dcb9d8b770388c1dc5bbee83889b32a58e081d122246f982f5856d41c590b00fb9db7ee916edae1dc029de97bb09aac54e52bf3824458cf4e1496b556b
   languageName: node
   linkType: hard
 
