@@ -5885,7 +5885,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nanoid@npm:^3.3.3, nanoid@npm:^3.3.4":
+"nanoid@npm:^3.3.17":
+  version: 3.3.18
+  resolution: "nanoid@npm:3.3.18"
+  bin:
+    nanoid: bin/nanoid.cjs
+  checksum: b566496dcb58a13fda961676ef9bb35d3e5ca1195d5362fcfa9a406039e88ca6b9820e3f3feed8bf1d5bfc6a9eb1f4831bcb4598499f3d4c0b64dff180124eb6
+  languageName: node
+  linkType: hard
+
+"nanoid@npm:^3.3.3":
   version: 3.3.4
   resolution: "nanoid@npm:3.3.4"
   bin:
@@ -6398,6 +6407,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"picocolors@npm:^1.1.1":
+  version: 1.1.1
+  resolution: "picocolors@npm:1.1.1"
+  checksum: 97d585b60823e7d70f642e2d63af4bcf61f3e63727c4c8834f313c9492aaede8424ae212b26b3589481370b286b28aedbed28d1d33985987cb8b9d2a36145944
+  languageName: node
+  linkType: hard
+
 "picomatch@npm:^2.0.4, picomatch@npm:^2.2.1, picomatch@npm:^2.3.1":
   version: 2.3.1
   resolution: "picomatch@npm:2.3.1"
@@ -6417,13 +6433,13 @@ __metadata:
   linkType: hard
 
 "postcss@npm:^8.4.21":
-  version: 8.4.21
-  resolution: "postcss@npm:8.4.21"
+  version: 8.5.26
+  resolution: "postcss@npm:8.5.26"
   dependencies:
-    nanoid: "npm:^3.3.4"
-    picocolors: "npm:^1.0.0"
-    source-map-js: "npm:^1.0.2"
-  checksum: 4fb944abed714e5aa88c76b6eae19b293e84ced7ea4162fe0da6ab5215ded572330df93ce3bb5073ee18a9ad0122a6a65e3000897dc3a828e96281d8b3e1f91e
+    nanoid: "npm:^3.3.17"
+    picocolors: "npm:^1.1.1"
+    source-map-js: "npm:^1.2.1"
+  checksum: 98ca68cb3c64081ac730de76b8dbd16bb9cae9d1bc84c1802fec463ae106a445c5db477f35a70b999d439a66e4715128efac78a34bd724aed8cd82e4fa6d071c
   languageName: node
   linkType: hard
 
@@ -7158,10 +7174,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"source-map-js@npm:^1.0.2":
-  version: 1.0.2
-  resolution: "source-map-js@npm:1.0.2"
-  checksum: 4496d29f371909dbc27dfb302f31cadc70b6f1591b2b433337daf923fac30e9632523e169494b40d06b53228166a577875a3610bce3412de8bb600152f748a9c
+"source-map-js@npm:^1.2.1":
+  version: 1.2.1
+  resolution: "source-map-js@npm:1.2.1"
+  checksum: 24cf138ac397eaa4329cfa975a6e64006a15903ff13e292b9c5f9ee73546a7e2a75150ddec88f282dfa8155b1336f11b2f19f742161e2e1f8a97cbcebe3fdabb
   languageName: node
   linkType: hard
 
