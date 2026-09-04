@@ -3413,7 +3413,7 @@ __metadata:
     "@types/node": "npm:^18.14.2"
     hono: "npm:^3.0.2"
     jose: "npm:^4.13.0"
-    toml: "npm:^3.0.0"
+    toml: "npm:^4.2.0"
     typescript: "npm:^4.9.5"
     vite: "npm:^4.1.4"
     vitest: "npm:^0.29.2"
@@ -6999,7 +6999,7 @@ __metadata:
     lodash-es: "npm:^4.17.21"
     miniflare: "npm:^2.12.1"
     prettier: "npm:^2.8.4"
-    toml: "npm:^3.0.0"
+    toml: "npm:^4.2.0"
     vite: "npm:^4.1.4"
     wrangler: "npm:^2.12.0"
     zx: "npm:^7.2.0"
@@ -7558,10 +7558,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"toml@npm:^3.0.0":
-  version: 3.0.0
-  resolution: "toml@npm:3.0.0"
-  checksum: de0f049d68d2c0ff1c8c750df44136ae45c1f4f147637cfea8ca0ec13027a09079a8793ce7b0c82859f25005d31e4336702ab51e945c33d80c4f69de26a82a5f
+"toml@npm:^4.2.0":
+  version: 4.2.0
+  resolution: "toml@npm:4.2.0"
+  checksum: 506edfbf0d5eda710746b2d6b3811970ce6686787bdd84da1296a681d1b661b5efffa0a3125b7232f911a1feecc171ec991b103164bf0356fd033cf1075b098c
   languageName: node
   linkType: hard
 
